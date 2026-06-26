@@ -1,0 +1,16 @@
+{
+  "deal_id": "deal-001",
+  "submitter_merchant_id": "mch_lagos_8821",
+  "counterparty_merchant_id": "mch_accra_4417",
+  "photo_ref": "assets/sample-deals/deal-001-goods.jpg",
+  "notes": "50 cartons of palm oil, 5L each. Buyer in Accra agreed 480,000 NGN. Settle in GHS.",
+  "expected_extraction": {
+    "items": [{ "name": "palm oil", "quantity": 50, "unit": "carton (5L)" }],
+    "asking_price": 480000,
+    "currency": "NGN",
+    "counterparty_name": "Accra buyer",
+    "extraction_confidence": 0.82
+  },
+  "agreed_band": { "min": 450000, "max": 500000, "currency": "NGN" },
+  "settlement_currency": "GHS"
+}
