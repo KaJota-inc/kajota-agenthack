@@ -1,0 +1,23 @@
+{
+  "mch_lagos_8821": {
+    "id": "mch_lagos_8821",
+    "name": "Lagos Wholesale Foods",
+    "kyc_status": "verified",
+    "country": "NG",
+    "history": { "deals_completed": 12, "on_time_rate": 0.92, "open_disputes": 0 }
+  },
+  "mch_accra_4417": {
+    "id": "mch_accra_4417",
+    "name": "Accra Retail Co.",
+    "kyc_status": "verified",
+    "country": "GH",
+    "history": { "deals_completed": 1, "on_time_rate": 1.0, "open_disputes": 0 }
+  },
+  "mch_unverified_0001": {
+    "id": "mch_unverified_0001",
+    "name": "Unknown Counterparty",
+    "kyc_status": "unverified",
+    "country": "GH",
+    "history": { "deals_completed": 0, "on_time_rate": null, "open_disputes": 0 }
+  }
+}
